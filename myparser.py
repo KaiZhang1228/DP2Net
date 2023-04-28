@@ -26,7 +26,7 @@ def parse_args():
                         help='Input item feature size (D).')
     parser.add_argument('--embed_size', type=int, default=64,
                         help='Embedding size (d).')
-    parser.add_argument('--drop_m', type=int, default=0.22,
+    parser.add_argument('--drop_m', type=int, default=0.2,
                         help='The dropout rate of user-outfit interaction matirx (M).')
     parser.add_argument('--layer_AIP_num', type=int, default=2,
                         help='Attentive information propogation layers number (l_g).')
