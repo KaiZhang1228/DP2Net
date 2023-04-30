@@ -1,6 +1,6 @@
 # DP2Net
 
-PyTorch implementation for paper: [`Dual Preference Perception Network for Fashion Outfit Recommendation in the Social Internet of Things`]
+PyTorch implementation for paper: [`Dual Preference Perception Network for Fashion Recommendation in the Social Internet of Things`]
 
 
 ## Environment Requirement
